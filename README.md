@@ -2,6 +2,8 @@
 For more details read the [blog post](https://shapescience.xyz).
 As explained, at the moment we only have "fake" streaming. Stay tuned.
 
+![demo-app](https://raw.githubusercontent.com/shapescience/tsne-streaming/master/illustration.jpg)
+
 ## TODO
 * Learn directly mappers: see [Learning a Parametric Embedding by Preserving Local Structure](https://lvdmaaten.github.io/publications/papers/AISTATS_2009.pdf)).
 * Do real streaming like in [A-tSNE](https://arxiv.org/pdf/1512.01655.pdf).
