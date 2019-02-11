@@ -1,4 +1,7 @@
 # Computing tSNE embeddings in streaming
+
+> **Deprecated:** the npm packages needed are broken. Use this project only as inspiration 🙂
+
 For more details read the [blog post](https://shapescience.xyz).
 As explained, at the moment we only have "fake" streaming. Stay tuned.
 
